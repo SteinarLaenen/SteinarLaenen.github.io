@@ -16,12 +16,12 @@ minima:
   social_links:
     twitter: SteinarLaenen
     github:  SteinarLaenen
-    rss: rss
+    # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: SteinarLaenen
+    linkedin: steinar-laenen-1a854a15b/?originalSubdomain=uk
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -39,8 +39,8 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 # Build settings
 theme: minima
